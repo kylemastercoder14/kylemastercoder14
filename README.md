@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kylemastercoder14&label=Profile%20views&color=0e75b6&style=flat" alt="kylemastercoder14" /> </p>
 
-- 🔭 I’m currently working on **Quizmify Application**
+- 🔭 I’m currently working on **Grade Portal Application**
 
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Threads Clone**
 
-- 💬 Ask me about **Mern Stack, PHP**
+- 💬 Ask me about **Mern Stack, PHP, HTML, CSS, Javascript**
 
-- 📫 How to reach me **kyleandrelim17@gmail.com**
+- 📫 How to reach me **kylemastercoder14@gmail.com**
 
 - ⚡ Fun fact **I am funny and kind**
 
